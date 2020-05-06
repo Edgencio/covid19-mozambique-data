@@ -1,0 +1,82 @@
+,id,date_diagnosed,age+,gender,city/region,province,source_of_info,symptoms,pre_existing_deseases,travel_history_dates,travel_history_location,Citzenship,notes
+1,1,2020-03-22,75,male,Maputo,Maputo City,https://nationalpost.com/pmn/health-pmn/mozambique-confirms-first-coronavirus-case,N/A,N/A,N/A,UK,Mozambique,N/A
+2,2,2020-03-24,70,female,Maputo,Maputo City,http://www.misau.gov.mz/index.php/101-covid-19-subiu-para-tres-o-numero-de-casos-de-infeccao-com-o-coronavirus-em-mocambique,N/A,N/A,N/A,N/A,Mozambique,N/A
+3,3,2020-03-24,30,female,Maputo,Maputo City,http://www.misau.gov.mz/index.php/101-covid-19-subiu-para-tres-o-numero-de-casos-de-infeccao-com-o-coronavirus-em-mocambique,N/A,N/A,2020-03-15,South Africa,South Africa,N/A
+4,4,2020-03-25,30,male,Maputo,Maputo City,http://www.misau.gov.mz/index.php/102-covid-19-subiu-para-tres-o-numero-de-casos-de-infeccao-com-o-coronavirus-em-mocambique-2,Slight/none,N/A,early March,Portugal,Mozambique,Passed through Austria and Switzerland
+5,5,2020-03-25,30,male,Maputo,Maputo City,http://www.misau.gov.mz/index.php/102-covid-19-subiu-para-tres-o-numero-de-casos-de-infeccao-com-o-coronavirus-em-mocambique-2,Slight/nome,N/A,N/A,UAE,Mozambique,Passed through South Africa
+6,6,2020-03-26,40,male,Maputo,Maputo City,http://www.misau.gov.mz/index.php/103-covid-19-subiu-para-tres-o-numero-de-casos-de-infeccao-com-o-coronavirus-em-mocambique-3,Slight,N/A,early March,France,France,N/A
+7,7,2020-03-26,40,male,Maputo,Maputo City,http://www.misau.gov.mz/index.php/103-covid-19-subiu-para-tres-o-numero-de-casos-de-infeccao-com-o-coronavirus-em-mocambique-3,Slight,N/A,early March,UK,Mozambique,N/A
+8,8,2020-03-28,N/A,N/A,Maputo,Maputo City,http://www.misau.gov.mz/index.php/109-covid-19-subiu-para-tres-o-numero-de-casos-de-infeccao-com-o-coronavirus-em-mocambique-6,Slight,N/A,N/A,N/A,Mozambique,N/A
+9,9,2020-04-01,18,male,Maputo,N/A,http://www.misau.gov.mz/index.php/117-subiu-para-dez-10-o-numero-de-casos-confirmados-de-contaminacao-com-o-coronavirus-no-pais,Slight,N/A,early March,Portugal,Mozambique,N/A
+10,10,2020-04-01,60,male,Maputo,N/A,http://www.misau.gov.mz/index.php/117-subiu-para-dez-10-o-numero-de-casos-confirmados-de-contaminacao-com-o-coronavirus-no-pais,Slight,N/A,early March,N/A,South Africa,N/A
+11,11,2020-04-08,N/A,male,Maputo,Maputo City,http://www.misau.gov.mz/index.php/132-subiu-para-17-o-numero-de-infectados-pela-covid-19-em-mocambique,Slight,N/A,N/A,N/A,,N/A
+12,12,2020-04-08,N/A,male,Maputo,Maputo City,http://www.misau.gov.mz/index.php/132-subiu-para-17-o-numero-de-infectados-pela-covid-19-em-mocambique,Slight,N/A,N/A,N/A,,N/A
+13,13,2020-04-08,N/A,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/132-subiu-para-17-o-numero-de-infectados-pela-covid-19-em-mocambique,Slight,N/A,N/A,N/A,,N/A
+14,14,2020-04-08,N/A,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/132-subiu-para-17-o-numero-de-infectados-pela-covid-19-em-mocambique,Slight,N/A,N/A,N/A,,N/A
+15,15,2020-04-08,N/A,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/132-subiu-para-17-o-numero-de-infectados-pela-covid-19-em-mocambique,Slight,N/A,N/A,N/A,,N/A
+16,16,2020-04-08,N/A,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/132-subiu-para-17-o-numero-de-infectados-pela-covid-19-em-mocambique,Slight,N/A,N/A,N/A,,N/A
+17,17,2020-04-08,N/A,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/132-subiu-para-17-o-numero-de-infectados-pela-covid-19-em-mocambique,Slight,N/A,N/A,N/A,,N/A
+18,18,2020-04-10,N/A,N/A,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/136-subiu-para-20-o-numero-de-casos-de-contaminacao-com-o-coronavirus-em-mocambique-contudo-o-pais-conta-ja-a-data-de-hoje-com-dois-02-casos-recuperados,Slight,N/A,N/A,N/A,,N/A
+19,19,2020-04-10,N/A,N/A,Pemba,Cabo Delgado,http://www.misau.gov.mz/index.php/136-subiu-para-20-o-numero-de-casos-de-contaminacao-com-o-coronavirus-em-mocambique-contudo-o-pais-conta-ja-a-data-de-hoje-com-dois-02-casos-recuperados,Slight,N/A,N/A,N/A,,N/A
+20,20,2020-04-10,N/A,N/A,Pemba,Cabo Delgado,http://www.misau.gov.mz/index.php/136-subiu-para-20-o-numero-de-casos-de-contaminacao-com-o-coronavirus-em-mocambique-contudo-o-pais-conta-ja-a-data-de-hoje-com-dois-02-casos-recuperados,Slight,N/A,N/A,N/A,Australia,N/A
+21,21,2020-04-12,50,male,Maputo,Maputo City,http://www.misau.gov.mz/index.php/139-aumenta-de-20-para-21-o-numero-de-casos-confirmados-de-contaminacao-com-o-coronavirus-em-mocambique,Slight,N/A,N/A,N/A,,N/A
+22,22,2020-04-14,N/A,N/A,N/A,N/A,http://www.misau.gov.mz/index.php/142-mocambique-registou-mais-sete-casos-positivos-o-pais-conta-agora-com-um-cumulativo-28-casos-dois-dos-quais-recuperados,Slight,N/A,N/A,N/A,,N/A
+23,23,2020-04-14,N/A,N/A,N/A,N/A,http://www.misau.gov.mz/index.php/142-mocambique-registou-mais-sete-casos-positivos-o-pais-conta-agora-com-um-cumulativo-28-casos-dois-dos-quais-recuperados,Slight,N/A,N/A,N/A,,N/A
+24,24,2020-04-14,N/A,N/A,N/A,N/A,http://www.misau.gov.mz/index.php/142-mocambique-registou-mais-sete-casos-positivos-o-pais-conta-agora-com-um-cumulativo-28-casos-dois-dos-quais-recuperados,Slight,N/A,N/A,N/A,,N/A
+25,25,2020-04-14,N/A,N/A,N/A,N/A,http://www.misau.gov.mz/index.php/142-mocambique-registou-mais-sete-casos-positivos-o-pais-conta-agora-com-um-cumulativo-28-casos-dois-dos-quais-recuperados,Slight,N/A,N/A,N/A,,N/A
+26,26,2020-04-14,N/A,N/A,N/A,N/A,http://www.misau.gov.mz/index.php/142-mocambique-registou-mais-sete-casos-positivos-o-pais-conta-agora-com-um-cumulativo-28-casos-dois-dos-quais-recuperados,Slight,N/A,N/A,N/A,,N/A
+27,27,2020-04-14,N/A,N/A,N/A,N/A,http://www.misau.gov.mz/index.php/142-mocambique-registou-mais-sete-casos-positivos-o-pais-conta-agora-com-um-cumulativo-28-casos-dois-dos-quais-recuperados,Slight,N/A,N/A,N/A,,N/A
+28,28,2020-04-14,N/A,N/A,N/A,N/A,http://www.misau.gov.mz/index.php/142-mocambique-registou-mais-sete-casos-positivos-o-pais-conta-agora-com-um-cumulativo-28-casos-dois-dos-quais-recuperados,Slight,N/A,N/A,N/A,,N/A
+29,29,2020-04-14,N/A,N/A,N/A,N/A,http://www.misau.gov.mz/index.php/143-aumenta-de-28-para-29-o-numero-de-casos-confirmados-de-contaminacao-com-o-coronavirus-em-mocambique,Slight,N/A,N/A,N/A,,N/A
+30,30,2020-04-16,30,male,Maputo,Maputo City,http://www.misau.gov.mz/index.php/147-subiu-para-31-o-numero-de-casos-positivos-para-a-covid-19-em-mocambique,none,N/A,N/A,N/A,,N/A
+31,31,2020-04-16,60,female,Maputo,Maputo City,http://www.misau.gov.mz/index.php/147-subiu-para-31-o-numero-de-casos-positivos-para-a-covid-19-em-mocambique,none,N/A,N/A,N/A,,N/A
+32,32,2020-04-17,40,male,N/A,N/A,http://www.misau.gov.mz/index.php/148-subiu-para-34-o-numero-de-casos-positivos-para-a-covid-19-em-mocambique,Slight,N/A,N/A,N/A,South Africa,N/A
+33,33,2020-04-17,30,female,N/A,N/A,http://www.misau.gov.mz/index.php/148-subiu-para-34-o-numero-de-casos-positivos-para-a-covid-19-em-mocambique,Slight,N/A,N/A,N/A,Mozambique,N/A
+34,34,2020-04-17,20,female,N/A,N/A,http://www.misau.gov.mz/index.php/148-subiu-para-34-o-numero-de-casos-positivos-para-a-covid-19-em-mocambique,Slight,N/A,N/A,N/A,Mozambique,N/A
+35,35,2020-04-18,20,male,Maputo,Maputo Province,http://www.misau.gov.mz/index.php/150-subiu-para-35-o-numero-de-casos-positivos-para-a-covid-19-em-mocambique-2,none,N/A,N/A,N/A,Italia,N/A
+36,36,2020-04-19,40,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/152-o-pais-registou-nas-ultimas-24-horas-mais-quatro-novos-casos-de-infeccao-pelo-novo-coronavirus-resultantes-da-testagem-de-85-amostras-suspeitas-segundo-informacao-partilhada-esta-tarde-19-de-abril-pela-directora-nacional-de-saude-publica-rosa-marlene,none,N/A,N/A,N/A,Mozambique,N/A
+37,37,2020-04-19,30,male,Pemba,Cabo Delgado,http://www.misau.gov.mz/index.php/152-o-pais-registou-nas-ultimas-24-horas-mais-quatro-novos-casos-de-infeccao-pelo-novo-coronavirus-resultantes-da-testagem-de-85-amostras-suspeitas-segundo-informacao-partilhada-esta-tarde-19-de-abril-pela-directora-nacional-de-saude-publica-rosa-marlene,none,N/A,N/A,N/A,South Africa,N/A
+38,38,2020-04-19,40,male,Pemba,Cabo Delgado,http://www.misau.gov.mz/index.php/152-o-pais-registou-nas-ultimas-24-horas-mais-quatro-novos-casos-de-infeccao-pelo-novo-coronavirus-resultantes-da-testagem-de-85-amostras-suspeitas-segundo-informacao-partilhada-esta-tarde-19-de-abril-pela-directora-nacional-de-saude-publica-rosa-marlene,none,N/A,N/A,N/A,South Africa,N/A
+39,39,2020-04-19,40,male,Pemba,Cabo Delgado,http://www.misau.gov.mz/index.php/152-o-pais-registou-nas-ultimas-24-horas-mais-quatro-novos-casos-de-infeccao-pelo-novo-coronavirus-resultantes-da-testagem-de-85-amostras-suspeitas-segundo-informacao-partilhada-esta-tarde-19-de-abril-pela-directora-nacional-de-saude-publica-rosa-marlene,none,N/A,N/A,N/A,United States,N/A
+40,40,2020-04-22,50,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/156-sobe-para-41-o-numero-de-casos-positivos-do-coronavirus-no-pais,none,N/A,N/A,N/A,South Africa,N/A
+41,41,2020-04-22,30,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/156-sobe-para-41-o-numero-de-casos-positivos-do-coronavirus-no-pais,none,N/A,N/A,N/A,South Africa,N/A
+42,42,2020-04-23,30,male,Afungi,Cabo Delgado,https://www.youtube.com/watch?v=o2N-gPvCpIU,N/A,N/A,N/A,N/A,Mozambique,N/A
+43,43,2020-04-23,40,male,Afungi,Cabo Delgado,https://www.youtube.com/watch?v=o2N-gPvCpIU,N/A,N/A,N/A,N/A,Mozambique,N/A
+44,44,2020-04-23,40,female,Afungi,Cabo Delgado,https://www.youtube.com/watch?v=o2N-gPvCpIU,N/A,N/A,N/A,N/A,,N/A
+45,45,2020-04-23,60,male,Afungi,Cabo Delgado,https://www.youtube.com/watch?v=o2N-gPvCpIU,N/A,N/A,N/A,N/A,,N/A
+46,46,2020-04-23,30,male,Matola,Maputo Province,https://www.youtube.com/watch?v=o2N-gPvCpIU,N/A,N/A,N/A,N/A,Mozambique,N/A
+47,47,2020-04-24,25,female,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/159-numero-de-casos-de-covid-19-sobe-para-65-no-pais,Slight,N/A,N/A,N/A,Mozambique,N/A
+48,48,2020-04-24,14,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/159-numero-de-casos-de-covid-19-sobe-para-65-no-pais,Slight,N/A,N/A,N/A,Mozambique,N/A
+49,49,2020-04-24,25,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/159-numero-de-casos-de-covid-19-sobe-para-65-no-pais,Slight,N/A,N/A,N/A,Mozambique,N/A
+50,50,2020-04-24,25,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/159-numero-de-casos-de-covid-19-sobe-para-65-no-pais,Slight,N/A,N/A,N/A,Mozambique,N/A
+51,51,2020-04-24,25,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/159-numero-de-casos-de-covid-19-sobe-para-65-no-pais,Slight,N/A,N/A,N/A,Mozambique,N/A
+52,52,2020-04-24,25,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/159-numero-de-casos-de-covid-19-sobe-para-65-no-pais,Slight,N/A,N/A,N/A,Mozambique,N/A
+53,53,2020-04-24,25,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/159-numero-de-casos-de-covid-19-sobe-para-65-no-pais,Slight,N/A,N/A,N/A,Mozambique,N/A
+54,54,2020-04-24,35,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/159-numero-de-casos-de-covid-19-sobe-para-65-no-pais,Slight,N/A,N/A,N/A,Mozambique,N/A
+55,55,2020-04-24,35,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/159-numero-de-casos-de-covid-19-sobe-para-65-no-pais,Slight,N/A,N/A,N/A,,N/A
+56,56,2020-04-24,35,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/159-numero-de-casos-de-covid-19-sobe-para-65-no-pais,Slight,N/A,N/A,N/A,,N/A
+57,57,2020-04-24,35,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/159-numero-de-casos-de-covid-19-sobe-para-65-no-pais,Slight,N/A,N/A,N/A,,N/A
+58,58,2020-04-24,35,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/159-numero-de-casos-de-covid-19-sobe-para-65-no-pais,Slight,N/A,N/A,N/A,,N/A
+59,59,2020-04-24,35,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/159-numero-de-casos-de-covid-19-sobe-para-65-no-pais,Slight,N/A,N/A,N/A,,N/A
+60,60,2020-04-24,45,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/159-numero-de-casos-de-covid-19-sobe-para-65-no-pais,Slight,N/A,N/A,N/A,,N/A
+61,61,2020-04-24,45,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/159-numero-de-casos-de-covid-19-sobe-para-65-no-pais,Slight,N/A,N/A,N/A,,N/A
+62,62,2020-04-24,45,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/159-numero-de-casos-de-covid-19-sobe-para-65-no-pais,Slight,N/A,N/A,N/A,,N/A
+63,63,2020-04-24,60,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/159-numero-de-casos-de-covid-19-sobe-para-65-no-pais,Slight,N/A,N/A,N/A,,N/A
+64,64,2020-04-24,60,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/159-numero-de-casos-de-covid-19-sobe-para-65-no-pais,Slight,N/A,N/A,N/A,,N/A
+65,65,2020-04-24,60,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/159-numero-de-casos-de-covid-19-sobe-para-65-no-pais,Slight,N/A,N/A,N/A,Mozambique,N/A
+66,66,2020-04-25,25,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/160-mocambique-notifica-mais-cinco-casos-de-covid-19,Slight,N/A,N/A,N/A,Mozambique,N/A
+67,67,2020-04-25,35,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/160-mocambique-notifica-mais-cinco-casos-de-covid-19,Slight,N/A,N/A,N/A,Turkey,N/A
+68,68,2020-04-25,35,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/160-mocambique-notifica-mais-cinco-casos-de-covid-19,Slight,N/A,N/A,N/A,Italia,N/A
+69,69,2020-04-25,35,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/160-mocambique-notifica-mais-cinco-casos-de-covid-19,Slight,N/A,N/A,N/A,Italia,N/A
+70,70,2020-04-25,45,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/160-mocambique-notifica-mais-cinco-casos-de-covid-19,Slight,N/A,N/A,N/A,Mozambique,N/A
+71,71,2020-04-26,5,female,Pemba,Cabo Delgado,http://www.misau.gov.mz/index.php/informacao-sobre-coronavirus-covid-19,none,N/A,N/A,N/A,Mozambique,N/A
+72,72,2020-04-26,25,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/informacao-sobre-coronavirus-covid-19,none,N/A,N/A,N/A,Mozambique,N/A
+73,73,2020-04-26,25,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/161-pais-regista-primeiro-caso-pediatrico-de-covid-19,none,N/A,N/A,N/A,Mozambique,N/A
+74,74,2020-04-26,45,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/161-pais-regista-primeiro-caso-pediatrico-de-covid-19,none,N/A,N/A,N/A,South Africa,N/A
+75,75,2020-04-26,15,female,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/161-pais-regista-primeiro-caso-pediatrico-de-covid-19,none,N/A,N/A,N/A,Mozambique,N/A
+76,76,2020-04-26,15,female,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/161-pais-regista-primeiro-caso-pediatrico-de-covid-19,none,N/A,N/A,N/A,Mozambique,N/A
+77,77,2020-05-01,25,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/169-numero-de-casos-de-covid-19-sobe-para-79-no-pais,none,N/A,N/A,N/A,Mozambique,N/A
+78,78,2020-05-01,25,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/169-numero-de-casos-de-covid-19-sobe-para-79-no-pais,none,N/A,N/A,N/A,Mozambique,N/A
+79,79,2020-05-01,35,male,Palma,Cabo Delgado,http://www.misau.gov.mz/index.php/169-numero-de-casos-de-covid-19-sobe-para-79-no-pais,none,N/A,N/A,N/A,Mozambique,N/A
+80,80,2020-05-03,25,male,Afungi,Cabo Delgado,http://www.misau.gov.mz/index.php/171-casos-da-covid-19-sobem-para-80-no-pais,none,N/A,N/A,,Mozambique,N/A
+81,81,2020-05-05,46,male,Maputo,Maputo City,http://www.misau.gov.mz/index.php/175-sobe-para-81-o-numero-de-casos-da-covid-19,none,N/A,2020-05-03,Portugal,Mozambique,N/A
