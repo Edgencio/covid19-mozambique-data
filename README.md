@@ -5,7 +5,7 @@ The goal of this repository is to gather data on the ongoing covid-19 pandemic i
 ## Contributing
 
 ### Create Issues
-Since we are humans and commit mistakes, we do accept suggestions on making the date more consitent, so feel free to create issues with suggestions of info to be added or even cells or rows to be fixed. 
+Since we are humans and commit mistakes, we do accept suggestions on making the data more consitent, so feel free to create issues with suggestions of info to be added or even cells or rows to be fixed. 
 
 ### Create PR's
 Basically the datasets contains cells with N/A value, it means those values are need to be filled so that we can achieve a consistent dataset.

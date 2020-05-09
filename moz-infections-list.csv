@@ -1,8 +1,0 @@
-,id,date_diagnosed,age+,gender,city,province,source_of_info,symptoms,pre_existing_deseases,travel_history_dates,travel_history_location,notes
-1,1,2020-03-22,75,male,N/A,N/A,https://nationalpost.com/pmn/health-pmn/mozambique-confirms-first-coronavirus-case,N/A,N/A,N/A,UK,N/A
-2,2,2020-03-24,70,female,N/A,N/A,http://www.misau.gov.mz/index.php/101-covid-19-subiu-para-tres-o-numero-de-casos-de-infeccao-com-o-coronavirus-em-mocambique,N/A,N/A,N/A,N/A,N/A
-3,3,2020-03-24,30,NA,Maputo,Maputo City,http://www.misau.gov.mz/index.php/101-covid-19-subiu-para-tres-o-numero-de-casos-de-infeccao-com-o-coronavirus-em-mocambique,N/A,N/A,2020-03-15,South Africa,N/A
-4,4,2020-03-25,30,male,Maputo,Maputo City,http://www.misau.gov.mz/index.php/102-covid-19-subiu-para-tres-o-numero-de-casos-de-infeccao-com-o-coronavirus-em-mocambique-2,N/A,N/A,early March,Portugal,N/A
-5,5,2020-03-25,30,male,Maputo,Maputo City,http://www.misau.gov.mz/index.php/102-covid-19-subiu-para-tres-o-numero-de-casos-de-infeccao-com-o-coronavirus-em-mocambique-2,N/A,N/A,N/A,UAE,N/A
-6,6,2020-03-26,N/A,N/A,N/A,N/A,http://www.misau.gov.mz/index.php/103-covid-19-subiu-para-tres-o-numero-de-casos-de-infeccao-com-o-coronavirus-em-mocambique-3,N/A,N/A,N/A,N/A,N/A
-7,7,2020-03-26,N/A,N/A,N/A,N/A,http://www.misau.gov.mz/index.php/103-covid-19-subiu-para-tres-o-numero-de-casos-de-infeccao-com-o-coronavirus-em-mocambique-3,N/A,N/A,N/A,N/A,N/A
