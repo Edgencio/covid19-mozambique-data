@@ -226,3 +226,10 @@ id,date_diagnosed,age+,gender,city/region,province,source_of_info,symptoms,pre_e
 225,2020-05-27,35,male,Pemba,Cabo Delgado,http://www.misau.gov.mz/index.php/205-registados-catorze-casos-de-covid-19-nas-ultimas-24-horas,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
 226,2020-05-27,60,male,Pemba,Cabo Delgado,http://www.misau.gov.mz/index.php/205-registados-catorze-casos-de-covid-19-nas-ultimas-24-horas,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
 227,2020-05-27,45,male,Pemba,Cabo Delgado,http://www.misau.gov.mz/index.php/205-registados-catorze-casos-de-covid-19-nas-ultimas-24-horas,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+228,2020-05-28,35,female,Mavago,Niassa,http://www.misau.gov.mz/index.php/206-segundo-obito-por-covid-19-confirmado-em-mocambique,Slight/moderate,N/A,N/A,N/A,UK,Active Vigilance result
+229,2020-05-28,25,male,Pemba,Cabo Delgado,http://www.misau.gov.mz/index.php/206-segundo-obito-por-covid-19-confirmado-em-mocambique,none,N/A,N/A,N/A,Mozambique,Active Vigilance result
+230,2020-05-28,35,male,Pemba,Cabo Delgado,http://www.misau.gov.mz/index.php/206-segundo-obito-por-covid-19-confirmado-em-mocambique,Slight/moderate,N/A,N/A,N/A,Mozambique,Active Vigilance result
+231,2020-05-28,45,male,Pemba,Cabo Delgado,http://www.misau.gov.mz/index.php/206-segundo-obito-por-covid-19-confirmado-em-mocambique,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+232,2020-05-28,45,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/206-segundo-obito-por-covid-19-confirmado-em-mocambique,Slight/moderate,N/A,N/A,N/A,Mozambique,Active Vigilance result
+233,2020-05-28,45,male,Maputo,Maputo City,http://www.misau.gov.mz/index.php/206-segundo-obito-por-covid-19-confirmado-em-mocambique,Slight/moderate,N/A,N/A,N/A,Mozambique,Active Vigilance result
+234,2020-05-29,35,male,Changara,Tete,http://www.misau.gov.mz/index.php/207-mocambique-regista-mais-um-caso-de-covid-19,Slight/moderate,N/A,N/A,N/A,Mozambique,Active Vigilance result
