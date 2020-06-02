@@ -243,3 +243,13 @@ id,date_diagnosed,age+,gender,city/region,province,source_of_info,symptoms,pre_e
 242,2020-05-30,-5,male,Maputo,Maputo City,https://www.youtube.com/watch?v=stByMDAVzJ12,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
 243,2020-05-30,25,female,Maputo,Maputo City,https://www.youtube.com/watch?v=stByMDAVzJ13,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
 244,2020-05-30,35,female,Maputo,Maputo City,https://www.youtube.com/watch?v=stByMDAVzJ14,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+245,2020-05-31,25,male,N/A,Cabo Delgado,http://www.misau.gov.mz/index.php/209-mocambique-regista-mais-dez-casos-de-covid-19,none,N/A,N/A,N/A,Mozambique,N/A
+246,2020-05-31,25,male,N/A,Cabo Delgado,http://www.misau.gov.mz/index.php/209-mocambique-regista-mais-dez-casos-de-covid-20,none,N/A,N/A,N/A,Mozambique,N/A
+247,2020-05-31,25,male,N/A,Cabo Delgado,http://www.misau.gov.mz/index.php/209-mocambique-regista-mais-dez-casos-de-covid-21,none,N/A,N/A,N/A,Mozambique,N/A
+248,2020-05-31,25,male,N/A,Cabo Delgado,http://www.misau.gov.mz/index.php/209-mocambique-regista-mais-dez-casos-de-covid-22,none,N/A,N/A,N/A,Mozambique,N/A
+249,2020-05-31,35,male,N/A,Cabo Delgado,http://www.misau.gov.mz/index.php/209-mocambique-regista-mais-dez-casos-de-covid-23,none,N/A,N/A,N/A,Mozambique,N/A
+250,2020-05-31,35,male,N/A,Cabo Delgado,http://www.misau.gov.mz/index.php/209-mocambique-regista-mais-dez-casos-de-covid-24,none,N/A,N/A,N/A,Mozambique,N/A
+251,2020-05-31,35,male,N/A,Cabo Delgado,http://www.misau.gov.mz/index.php/209-mocambique-regista-mais-dez-casos-de-covid-25,none,N/A,N/A,N/A,Mozambique,N/A
+252,2020-05-31,45,male,N/A,Cabo Delgado,http://www.misau.gov.mz/index.php/209-mocambique-regista-mais-dez-casos-de-covid-26,none,N/A,N/A,N/A,Mozambique,N/A
+253,2020-05-31,45,male,N/A,Cabo Delgado,http://www.misau.gov.mz/index.php/209-mocambique-regista-mais-dez-casos-de-covid-27,none,N/A,N/A,N/A,Mozambique,N/A
+254,2020-05-31,60,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/209-mocambique-regista-mais-dez-casos-de-covid-28,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
