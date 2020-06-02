@@ -233,3 +233,13 @@ id,date_diagnosed,age+,gender,city/region,province,source_of_info,symptoms,pre_e
 232,2020-05-28,45,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/206-segundo-obito-por-covid-19-confirmado-em-mocambique,Slight/moderate,N/A,N/A,N/A,Mozambique,Active Vigilance result
 233,2020-05-28,45,male,Maputo,Maputo City,http://www.misau.gov.mz/index.php/206-segundo-obito-por-covid-19-confirmado-em-mocambique,Slight/moderate,N/A,N/A,N/A,Mozambique,Active Vigilance result
 234,2020-05-29,35,male,Changara,Tete,http://www.misau.gov.mz/index.php/207-mocambique-regista-mais-um-caso-de-covid-19,Slight/moderate,N/A,N/A,N/A,Mozambique,Active Vigilance result
+235,2020-05-30,15,male,Palma,Cabo Delgado,https://www.youtube.com/watch?v=stByMDAVzJ8,none,N/A,N/A,N/A,Mozambique,N/A
+236,2020-05-30,25,male,Palma,Cabo Delgado,https://www.youtube.com/watch?v=stByMDAVzJ8,none,N/A,N/A,N/A,Mozambique,N/A
+237,2020-05-30,25,male,Palma,Cabo Delgado,https://www.youtube.com/watch?v=stByMDAVzJ8,none,N/A,N/A,N/A,Mozambique,N/A
+238,2020-05-30,35,male,Palma,Cabo Delgado,https://www.youtube.com/watch?v=stByMDAVzJ8,none,N/A,N/A,N/A,Mozambique,N/A
+239,2020-05-30,45,male,Palma,Cabo Delgado,https://www.youtube.com/watch?v=stByMDAVzJ9,none,N/A,N/A,N/A,Mozambique,N/A
+240,2020-05-30,5,male,Nampula,Nampula,https://www.youtube.com/watch?v=stByMDAVzJ10,Slight/moderate,N/A,N/A,N/A,Mozambique,Active Vigilance result
+241,2020-05-30,35,male,Nampula,Nampula,https://www.youtube.com/watch?v=stByMDAVzJ11,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+242,2020-05-30,-5,male,Maputo,Maputo City,https://www.youtube.com/watch?v=stByMDAVzJ12,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+243,2020-05-30,25,female,Maputo,Maputo City,https://www.youtube.com/watch?v=stByMDAVzJ13,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+244,2020-05-30,35,female,Maputo,Maputo City,https://www.youtube.com/watch?v=stByMDAVzJ14,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
