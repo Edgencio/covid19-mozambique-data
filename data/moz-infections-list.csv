@@ -253,3 +253,56 @@ id,date_diagnosed,age+,gender,city/region,province,source_of_info,symptoms,pre_e
 252,2020-05-31,45,male,N/A,Cabo Delgado,http://www.misau.gov.mz/index.php/209-mocambique-regista-mais-dez-casos-de-covid-26,none,N/A,N/A,N/A,Mozambique,N/A
 253,2020-05-31,45,male,N/A,Cabo Delgado,http://www.misau.gov.mz/index.php/209-mocambique-regista-mais-dez-casos-de-covid-27,none,N/A,N/A,N/A,Mozambique,N/A
 254,2020-05-31,60,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/209-mocambique-regista-mais-dez-casos-de-covid-28,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+255,2020-06-02,15,male,Palma,Cabo Delgado,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-19,none,N/A,N/A,N/A,Mozambique,N/A
+256,2020-06-02,5,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-20,none,N/A,N/A,N/A,Mozambique,N/A
+257,2020-06-02,5,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-21,none,N/A,N/A,N/A,Mozambique,N/A
+258,2020-06-02,5,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-22,none,N/A,N/A,N/A,Mozambique,N/A
+259,2020-06-02,5,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-23,none,N/A,N/A,N/A,Mozambique,N/A
+260,2020-06-02,15,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-24,none,N/A,N/A,N/A,Mozambique,N/A
+261,2020-06-02,15,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-25,none,N/A,N/A,N/A,Mozambique,N/A
+262,2020-06-02,15,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-26,none,N/A,N/A,N/A,Mozambique,N/A
+263,2020-06-02,15,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-27,none,N/A,N/A,N/A,Mozambique,N/A
+264,2020-06-02,15,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-28,none,N/A,N/A,N/A,Mozambique,N/A
+265,2020-06-02,15,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-29,none,N/A,N/A,N/A,Mozambique,N/A
+266,2020-06-02,15,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-30,none,N/A,N/A,N/A,Mozambique,N/A
+267,2020-06-02,15,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-31,none,N/A,N/A,N/A,Mozambique,N/A
+268,2020-06-02,15,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-32,none,N/A,N/A,N/A,Mozambique,N/A
+269,2020-06-02,15,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-33,none,N/A,N/A,N/A,Mozambique,N/A
+270,2020-06-02,5,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-34,none,N/A,N/A,N/A,Mozambique,N/A
+271,2020-06-02,5,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-35,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+272,2020-06-02,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-36,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+273,2020-06-02,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-37,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+274,2020-06-02,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-38,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+275,2020-06-02,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-39,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+276,2020-06-02,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-40,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+277,2020-06-02,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-41,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+278,2020-06-02,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-42,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+279,2020-06-02,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-43,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+280,2020-06-02,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-44,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+281,2020-06-02,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-45,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+282,2020-06-02,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-46,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+283,2020-06-02,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-47,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+284,2020-06-02,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-48,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+285,2020-06-02,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-49,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+286,2020-06-02,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-50,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+287,2020-06-02,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-51,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+288,2020-06-02,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-52,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+289,2020-06-02,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-53,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+290,2020-06-02,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-54,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+291,2020-06-02,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-55,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+292,2020-06-02,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-56,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+293,2020-06-02,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-57,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+294,2020-06-02,15,male,Mogovolas,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-58,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+295,2020-06-02,15,male,Mogovolas,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-59,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+296,2020-06-02,15,male,Mogovolas,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-60,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+297,2020-06-02,15,male,Mogovolas,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-61,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+298,2020-06-02,15,female,Mogovolas,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-62,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+299,2020-06-02,15,female,Mogovolas,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-63,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+300,2020-06-02,15,female,Mogovolas,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-64,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+301,2020-06-02,15,female,Mogovolas,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-65,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+302,2020-06-02,15,female,Mogovolas,Nampula,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-66,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+303,2020-06-02,15,female,Maputo,Maputo City,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-67,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+304,2020-06-02,15,female,Maputo,Maputo City,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-68,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+305,2020-06-02,15,female,Maputo,Maputo City,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-69,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+306,2020-06-02,15,male,Maputo,Maputo City,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-70,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+307,2020-06-02,15,male,Maputo,Maputo City,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-71,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
