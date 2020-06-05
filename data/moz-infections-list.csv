@@ -315,3 +315,39 @@ id,date_diagnosed,age+,gender,city/region,province,source_of_info,symptoms,pre_e
 314,2020-06-03,5,female,Maputo,Maputo City,http://www.misau.gov.mz/index.php/212-continuam-a-aumentar-casos-de-covid-19-em-mocambique,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
 315,2020-06-03,15,female,Maputo,Maputo City,http://www.misau.gov.mz/index.php/212-continuam-a-aumentar-casos-de-covid-19-em-mocambique,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
 316,2020-06-03,15,female,Maputo,Maputo City,http://www.misau.gov.mz/index.php/212-continuam-a-aumentar-casos-de-covid-19-em-mocambique,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+317,2020-06-04,15,female,Maputo,Maputo City,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-19,none,N/A,N/A,N/A,foreigner,N/A
+318,2020-06-04,15,female,Maputo,Maputo City,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-20,none,N/A,N/A,N/A,foreigner,N/A
+319,2020-06-04,5,male,Maputo,Maputo City,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-21,none,N/A,N/A,N/A,foreigner,N/A
+320,2020-06-04,5,male,Marracuene,Maputo,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-22,none,N/A,N/A,N/A,Mozambique,N/A
+321,2020-06-04,15,female,Marracuene,Maputo,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-23,none,N/A,N/A,N/A,Mozambique,N/A
+322,2020-06-04,15,female,Changara,Tete,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-24,none,N/A,N/A,N/A,Mozambique,N/A
+323,2020-06-04,5,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-25,none,N/A,N/A,N/A,Mozambique,N/A
+324,2020-06-04,5,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-26,none,N/A,N/A,N/A,Mozambique,N/A
+325,2020-06-04,5,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-27,none,N/A,N/A,N/A,Mozambique,N/A
+326,2020-06-04,15,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-28,none,N/A,N/A,N/A,Mozambique,N/A
+327,2020-06-04,15,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-29,none,N/A,N/A,N/A,Mozambique,N/A
+328,2020-06-04,15,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-30,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+329,2020-06-04,15,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-31,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+330,2020-06-04,15,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-32,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+331,2020-06-04,15,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-33,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+332,2020-06-04,15,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-34,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+333,2020-06-04,15,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-35,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+334,2020-06-04,15,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-36,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+335,2020-06-04,15,female,Nampula,Nampula,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-37,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+336,2020-06-04,5,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-38,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+337,2020-06-04,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-39,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+338,2020-06-04,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-40,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+339,2020-06-04,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-41,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+340,2020-06-04,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-42,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+341,2020-06-04,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-43,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+342,2020-06-04,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-44,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+343,2020-06-04,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-45,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+344,2020-06-04,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-46,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+345,2020-06-04,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-47,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+346,2020-06-04,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-48,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+347,2020-06-04,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-49,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+348,2020-06-04,15,male,Nampula,Nampula,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-50,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+349,2020-06-04,15,female,Pemba,Cabo Delgado,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-51,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+350,2020-06-04,15,female,Pemba,Cabo Delgado,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-52,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+351,2020-06-04,15,male,Pemba,Cabo Delgado,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-53,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+352,2020-06-04,15,male,Pemba,Cabo Delgado,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-54,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
