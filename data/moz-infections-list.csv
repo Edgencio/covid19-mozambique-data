@@ -306,3 +306,12 @@ id,date_diagnosed,age+,gender,city/region,province,source_of_info,symptoms,pre_e
 305,2020-06-02,15,female,Maputo,Maputo City,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-69,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
 306,2020-06-02,15,male,Maputo,Maputo City,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-70,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
 307,2020-06-02,15,male,Maputo,Maputo City,http://www.misau.gov.mz/index.php/211-mocambique-regista-a-mais-elevada-subida-de-casos-da-covid-71,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+308,2020-06-03,15,male,Lago,Niassa,http://www.misau.gov.mz/index.php/212-continuam-a-aumentar-casos-de-covid-19-em-mocambique,none,N/A,N/A,N/A,Mozambique,N/A
+309,2020-06-03,15,male,Lago,Niassa,http://www.misau.gov.mz/index.php/212-continuam-a-aumentar-casos-de-covid-19-em-mocambique,none,N/A,N/A,N/A,Mozambique,N/A
+310,2020-06-03,15,male,Lago,Niassa,http://www.misau.gov.mz/index.php/212-continuam-a-aumentar-casos-de-covid-19-em-mocambique,none,N/A,N/A,N/A,Mozambique,N/A
+311,2020-06-03,15,male,Mavago,Niassa,http://www.misau.gov.mz/index.php/212-continuam-a-aumentar-casos-de-covid-19-em-mocambique,none,N/A,N/A,N/A,Mozambique,N/A
+312,2020-06-03,15,male,Maputo,Maputo City,http://www.misau.gov.mz/index.php/212-continuam-a-aumentar-casos-de-covid-19-em-mocambique,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+313,2020-06-03,5,female,Maputo,Maputo City,http://www.misau.gov.mz/index.php/212-continuam-a-aumentar-casos-de-covid-19-em-mocambique,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+314,2020-06-03,5,female,Maputo,Maputo City,http://www.misau.gov.mz/index.php/212-continuam-a-aumentar-casos-de-covid-19-em-mocambique,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+315,2020-06-03,15,female,Maputo,Maputo City,http://www.misau.gov.mz/index.php/212-continuam-a-aumentar-casos-de-covid-19-em-mocambique,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+316,2020-06-03,15,female,Maputo,Maputo City,http://www.misau.gov.mz/index.php/212-continuam-a-aumentar-casos-de-covid-19-em-mocambique,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
