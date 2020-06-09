@@ -407,5 +407,20 @@ id,date_diagnosed,age+,gender,city/region,province,source_of_info,symptoms,pre_e
 405,20202-06-06,N/A,female,N/A,Maputo,http://www.misau.gov.mz/index.php/219-mocambique-registou-55-casos-positivos-de-contaminacao-com-o-novo-coronavirus-nas-ultimas-24-horas-e-nampula-transita-para-o-padrao-de-transmissao-comunitaria,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
 406,20202-06-06,N/A,female,N/A,Maputo,http://www.misau.gov.mz/index.php/219-mocambique-registou-55-casos-positivos-de-contaminacao-com-o-novo-coronavirus-nas-ultimas-24-horas-e-nampula-transita-para-o-padrao-de-transmissao-comunitaria,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
 407,20202-06-06,N/A,female,N/A,Maputo,http://www.misau.gov.mz/index.php/219-mocambique-registou-55-casos-positivos-de-contaminacao-com-o-novo-coronavirus-nas-ultimas-24-horas-e-nampula-transita-para-o-padrao-de-transmissao-comunitaria,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
-408,20202-06-07,N/A,female,N/A,Maputo City,http://www.misau.gov.mz/index.php/219-mocambique-registou-55-casos-positivos-de-contaminacao-com-o-novo-coronavirus-nas-ultimas-24-horas-e-nampula-transita-para-o-padrao-de-transmissao-comunitaria,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
-409,20202-06-08,N/A,female,N/A,Maputo City,http://www.misau.gov.mz/index.php/219-mocambique-registou-55-casos-positivos-de-contaminacao-com-o-novo-coronavirus-nas-ultimas-24-horas-e-nampula-transita-para-o-padrao-de-transmissao-comunitaria,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+408,20202-06-06,N/A,female,N/A,Maputo City,http://www.misau.gov.mz/index.php/219-mocambique-registou-55-casos-positivos-de-contaminacao-com-o-novo-coronavirus-nas-ultimas-24-horas-e-nampula-transita-para-o-padrao-de-transmissao-comunitaria,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+409,20202-06-06,N/A,female,N/A,Maputo City,http://www.misau.gov.mz/index.php/219-mocambique-registou-55-casos-positivos-de-contaminacao-com-o-novo-coronavirus-nas-ultimas-24-horas-e-nampula-transita-para-o-padrao-de-transmissao-comunitaria,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+410,20202-06-07,N/A,male,N/A,Nampula,http://www.misau.gov.mz/index.php/220-mocambique-regista-mais-15-casos-de-covid-19,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+411,20202-06-07,N/A,male,N/A,Nampula,http://www.misau.gov.mz/index.php/220-mocambique-regista-mais-15-casos-de-covid-20,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+412,20202-06-07,N/A,male,N/A,Nampula,http://www.misau.gov.mz/index.php/220-mocambique-regista-mais-15-casos-de-covid-21,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+413,20202-06-07,N/A,male,N/A,Nampula,http://www.misau.gov.mz/index.php/220-mocambique-regista-mais-15-casos-de-covid-22,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+414,20202-06-07,N/A,female,N/A,Nampula,http://www.misau.gov.mz/index.php/220-mocambique-regista-mais-15-casos-de-covid-23,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+415,20202-06-07,N/A,female,N/A,Nampula,http://www.misau.gov.mz/index.php/220-mocambique-regista-mais-15-casos-de-covid-24,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+416,20202-06-07,N/A,female,N/A,Nampula,http://www.misau.gov.mz/index.php/220-mocambique-regista-mais-15-casos-de-covid-25,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+417,20202-06-07,N/A,female,N/A,Nampula,http://www.misau.gov.mz/index.php/220-mocambique-regista-mais-15-casos-de-covid-26,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+418,20202-06-07,N/A,female,N/A,Nampula,http://www.misau.gov.mz/index.php/220-mocambique-regista-mais-15-casos-de-covid-27,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+419,20202-06-07,N/A,female,N/A,Nampula,http://www.misau.gov.mz/index.php/220-mocambique-regista-mais-15-casos-de-covid-28,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+420,20202-06-07,N/A,female,N/A,Nampula,http://www.misau.gov.mz/index.php/220-mocambique-regista-mais-15-casos-de-covid-29,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+421,20202-06-07,N/A,male,N/A,Maputo City,http://www.misau.gov.mz/index.php/220-mocambique-regista-mais-15-casos-de-covid-30,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+422,20202-06-07,N/A,male,N/A,Maputo City,http://www.misau.gov.mz/index.php/220-mocambique-regista-mais-15-casos-de-covid-31,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+423,20202-06-07,N/A,female,N/A,Maputo City,http://www.misau.gov.mz/index.php/220-mocambique-regista-mais-15-casos-de-covid-32,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+424,20202-06-07,N/A,female,N/A,Maputo City,http://www.misau.gov.mz/index.php/220-mocambique-regista-mais-15-casos-de-covid-33,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
