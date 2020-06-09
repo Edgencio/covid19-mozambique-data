@@ -351,3 +351,5 @@ id,date_diagnosed,age+,gender,city/region,province,source_of_info,symptoms,pre_e
 350,2020-06-04,15,female,Pemba,Cabo Delgado,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-52,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
 351,2020-06-04,15,male,Pemba,Cabo Delgado,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-53,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
 352,2020-06-04,15,male,Pemba,Cabo Delgado,http://www.misau.gov.mz/index.php/215-pais-regista-mais-36-novos-casos-positivos-de-covid-54,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+353,2020-06-05,25,female,Inhambane,Inhambane,http://www.misau.gov.mz/index.php/218-registados-mais-dois-casos-de-covid-19-no-pais,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+354,2020-06-05,25,female,Maputo,Maputo City,http://www.misau.gov.mz/index.php/218-registados-mais-dois-casos-de-covid-19-no-pais,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
