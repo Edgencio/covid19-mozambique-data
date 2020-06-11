@@ -433,3 +433,42 @@ id,date_diagnosed,age+,gender,city/region,province,source_of_info,symptoms,pre_e
 431,2020-06-08,15-34,male,N/A,Maputo,http://www.misau.gov.mz/index.php/221-o-pais-regista-mais-9-casos-da-covid-25,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
 432,2020-06-08,15-34,female,N/A,Maputo,http://www.misau.gov.mz/index.php/221-o-pais-regista-mais-9-casos-da-covid-26,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
 433,2020-06-08,15-34,male,N/A,Maputo City,http://www.misau.gov.mz/index.php/221-o-pais-regista-mais-9-casos-da-covid-27,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+434,2020-06-09,N/A,male,N/A,Nampula,http://www.misau.gov.mz/index.php/222-mocambique-regista-20-novos-casos-de-covid-19,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+435,2020-06-09,N/A,male,N/A,Nampula,http://www.misau.gov.mz/index.php/222-mocambique-regista-20-novos-casos-de-covid-20,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+436,2020-06-09,N/A,male,N/A,Nampula,http://www.misau.gov.mz/index.php/222-mocambique-regista-20-novos-casos-de-covid-21,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+437,2020-06-09,N/A,male,N/A,Nampula,http://www.misau.gov.mz/index.php/222-mocambique-regista-20-novos-casos-de-covid-22,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+438,2020-06-09,N/A,male,N/A,Nampula,http://www.misau.gov.mz/index.php/222-mocambique-regista-20-novos-casos-de-covid-23,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+439,2020-06-09,N/A,male,N/A,Nampula,http://www.misau.gov.mz/index.php/222-mocambique-regista-20-novos-casos-de-covid-24,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+440,2020-06-09,N/A,male,N/A,Nampula,http://www.misau.gov.mz/index.php/222-mocambique-regista-20-novos-casos-de-covid-25,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+441,2020-06-09,N/A,male,N/A,Nampula,http://www.misau.gov.mz/index.php/222-mocambique-regista-20-novos-casos-de-covid-26,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+442,2020-06-09,N/A,female,N/A,Nampula,http://www.misau.gov.mz/index.php/222-mocambique-regista-20-novos-casos-de-covid-27,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+443,2020-06-09,N/A,female,N/A,Nampula,http://www.misau.gov.mz/index.php/222-mocambique-regista-20-novos-casos-de-covid-28,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+444,2020-06-09,N/A,male,N/A,Maputo,http://www.misau.gov.mz/index.php/222-mocambique-regista-20-novos-casos-de-covid-29,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+445,2020-06-09,N/A,male,N/A,Maputo,http://www.misau.gov.mz/index.php/222-mocambique-regista-20-novos-casos-de-covid-30,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+446,2020-06-09,N/A,male,N/A,Maputo,http://www.misau.gov.mz/index.php/222-mocambique-regista-20-novos-casos-de-covid-31,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+447,2020-06-09,N/A,male,N/A,Maputo,http://www.misau.gov.mz/index.php/222-mocambique-regista-20-novos-casos-de-covid-32,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+448,2020-06-09,N/A,male,N/A,Maputo,http://www.misau.gov.mz/index.php/222-mocambique-regista-20-novos-casos-de-covid-33,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+449,2020-06-09,N/A,male,N/A,Maputo,http://www.misau.gov.mz/index.php/222-mocambique-regista-20-novos-casos-de-covid-34,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+450,2020-06-09,N/A,male,N/A,Maputo,http://www.misau.gov.mz/index.php/222-mocambique-regista-20-novos-casos-de-covid-35,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+451,2020-06-09,N/A,male,N/A,Maputo City,http://www.misau.gov.mz/index.php/222-mocambique-regista-20-novos-casos-de-covid-36,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+452,2020-06-09,N/A,male,N/A,Maputo City,http://www.misau.gov.mz/index.php/222-mocambique-regista-20-novos-casos-de-covid-37,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+453,2020-06-09,N/A,male,N/A,Maputo City,http://www.misau.gov.mz/index.php/222-mocambique-regista-20-novos-casos-de-covid-38,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+454,2020-06-10,N/A,male,N/A,Nampula,http://www.misau.gov.mz/index.php/224-mocambique-regista-19-casos-da-covid-19,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+455,2020-06-10,N/A,male,N/A,Nampula,http://www.misau.gov.mz/index.php/224-mocambique-regista-19-casos-da-covid-20,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+456,2020-06-10,N/A,male,N/A,Nampula,http://www.misau.gov.mz/index.php/224-mocambique-regista-19-casos-da-covid-21,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+457,2020-06-10,N/A,male,N/A,Nampula,http://www.misau.gov.mz/index.php/224-mocambique-regista-19-casos-da-covid-22,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+458,2020-06-10,N/A,male,N/A,Nampula,http://www.misau.gov.mz/index.php/224-mocambique-regista-19-casos-da-covid-23,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+459,2020-06-10,N/A,female,N/A,Nampula,http://www.misau.gov.mz/index.php/224-mocambique-regista-19-casos-da-covid-24,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+460,2020-06-10,N/A,female,N/A,Nampula,http://www.misau.gov.mz/index.php/224-mocambique-regista-19-casos-da-covid-25,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+461,2020-06-10,N/A,female,N/A,Nampula,http://www.misau.gov.mz/index.php/224-mocambique-regista-19-casos-da-covid-26,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+462,2020-06-10,N/A,female,N/A,Nampula,http://www.misau.gov.mz/index.php/224-mocambique-regista-19-casos-da-covid-27,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+463,2020-06-10,N/A,male,N/A,Maputo,http://www.misau.gov.mz/index.php/224-mocambique-regista-19-casos-da-covid-28,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+464,2020-06-10,N/A,male,N/A,Maputo,http://www.misau.gov.mz/index.php/224-mocambique-regista-19-casos-da-covid-29,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+465,2020-06-10,N/A,male,N/A,Maputo,http://www.misau.gov.mz/index.php/224-mocambique-regista-19-casos-da-covid-30,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+466,2020-06-10,N/A,male,N/A,Maputo,http://www.misau.gov.mz/index.php/224-mocambique-regista-19-casos-da-covid-31,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+467,2020-06-10,N/A,male,N/A,Maputo,http://www.misau.gov.mz/index.php/224-mocambique-regista-19-casos-da-covid-32,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+468,2020-06-10,N/A,male,N/A,Maputo,http://www.misau.gov.mz/index.php/224-mocambique-regista-19-casos-da-covid-33,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+469,2020-06-10,N/A,female,N/A,Maputo,http://www.misau.gov.mz/index.php/224-mocambique-regista-19-casos-da-covid-34,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+470,2020-06-10,N/A,female,N/A,Maputo,http://www.misau.gov.mz/index.php/224-mocambique-regista-19-casos-da-covid-35,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+471,2020-06-10,N/A,male,N/A,Maputo City,http://www.misau.gov.mz/index.php/224-mocambique-regista-19-casos-da-covid-36,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
+472,2020-06-10,N/A,female,N/A,Maputo City,http://www.misau.gov.mz/index.php/224-mocambique-regista-19-casos-da-covid-37,Slight/moderate,N/A,N/A,N/A,Mozambique,N/A
